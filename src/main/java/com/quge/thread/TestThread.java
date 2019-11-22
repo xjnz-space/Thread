@@ -50,3 +50,4 @@ public class TestThread extends Thread{
             4、线程调度程序可以决定将当前运行状态移动到可运行状态，以便让另一个线程获得运行机会，而不需要任何理由。*/
     }
 }
+ 
